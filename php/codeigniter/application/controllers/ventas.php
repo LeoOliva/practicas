@@ -7,7 +7,7 @@
  */
 class Ventas extends CI_Controller  {
     function index(){
-        $this->load->view('articulos/index.php'); 
+        $this->load->view('ventas/index.php'); 
     }
     
 }

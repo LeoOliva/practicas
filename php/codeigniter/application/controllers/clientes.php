@@ -7,7 +7,7 @@
  */
 class Clientes extends CI_Controller  {
     function index(){
-        $this->load->view('articulos/index.php'); 
+        $this->load->view('clientes/index.php'); 
     }
     
 }

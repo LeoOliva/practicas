@@ -7,7 +7,7 @@
  */
 class Inventario extends CI_Controller {
     function index(){
-        $this->load->view('articulos/index.php'); 
+        $this->load->view('inventario/index.php'); 
     }
     
 }
